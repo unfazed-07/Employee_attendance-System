@@ -6,8 +6,6 @@ A simple terminal-based app to record and manage employee attendance using Pytho
 
 - `datetime` – to capture timestamped check-ins and check-outs
 - `os` – to create and manage log files and folders
-- `sys` – for clean exit handling (optional)
-- `time` – for optional pauses or formatting (if used)
 
 ## 🛠 Skills Practiced
 
